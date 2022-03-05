@@ -1,4 +1,4 @@
-<a href="https://giphy.com/gifs/ict-mrp-work-laptop-email-ahRF3IwhT9VhJ57gj4"><img width="100%" height="auto" src="https://giphy.com/embed/ahRF3IwhT9VhJ57gj4" height="175px"/></a>
+<a href="#" style="display:flex;justify-content:center;"><img width="20%" height="200px" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehtisham Ali</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Pakistan Islamabad.</h3>
@@ -21,17 +21,17 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-<a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/shield-large.svg" height="50" width="50"></img></a>  
-<a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50" width="50"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" height="50" height="50"/> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="50" width="50" /> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="padding-right:8px;"><img src="https://www.javascript.com/etc/clientlibs/pluralsight/main/images/js-logo-sm.png" height="37" width="40" style="margin-bottom:5px"></img> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" style="padding-right:8px;"><img src="	https://static.javatpoint.com/csharp/images/c-sharp.png" height="40" width="35" style="margin-bottom:5px"></img> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" style="padding-right:8px;"><img src="	https://github.com/remojansen/logo.ts/raw/master/ts.png" alt="typescript" height="40" width="40" style="margin-bottom:5px"></img</a>
-    <a href="https://postman.com" target="_blank" style="padding-right:8px;"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank" style="padding-right:8px;"><img src="	https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="50" width="50"></img></a> 
-      <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+<a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="angular" height="50" width="50"></img></a>  
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="Html5" height="50" width="50"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" height="50" height="50"/> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstarp" height="50" width="50" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" height="50" width="50"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" height="50" width="50"/></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" height="50" width="50"/></a>
+    <a href="https://postman.com" target="_blank" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a href="https://material.angular.io/" target="_blank" ><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" height="50" width="50"/></a>
+    <a href="https://sass-lang.com/" target="_blank" ><img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" height="50" width="50"/></img></a> 
+      <a  href="https://www.mysql.com/" target="_blank" > <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql" height="50" width="50"/> </a>
         
 </p>
 
@@ -48,7 +48,7 @@
 
   <br/>
     <a href="https://github.com/IssaEhtishamAli/github-readme-stats"><img alt="Ehtisham Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=IssaEhtishamAli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/IssaEhtishamAli/github-readme-stats"><img alt="Ehtisham Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIssaEhtishamAli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/IssaEhtishamAli/github-readme-stats"><img alt="Ehtisham Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaEhtishamAli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
