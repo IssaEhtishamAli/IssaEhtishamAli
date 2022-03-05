@@ -1,10 +1,10 @@
-<a href="#" style="display:flex;justify-content:center;"><img width="20%" height="200px" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif"/></a>
+<a href="#" style="display:flex;justify-content:center;"><img width="30%" height="200px" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehtisham Ali</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Pakistan Islamabad.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Software Engineer
 
 - 🔭 I’m currently working on my final year project LMS
 
