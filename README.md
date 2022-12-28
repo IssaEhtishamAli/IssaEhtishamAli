@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ Software Engineer
 
-- 🔭 I’m currently working on my final year project LMS
-
-- 🌱 I’m currently learning and working **Angular 11 and Asp.net core**
+- 🌱 I’m currently learning and working in**Angular 11 and Asp.net core**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at ** <a href="https://ehtishamaliportfolio.web.app/">Portfolio</a>**
 
 - 📫 How to reach me **issaehtishamali@gmail.com**
 
