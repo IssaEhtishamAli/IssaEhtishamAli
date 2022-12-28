@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at ** <a href="https://ehtishamaliportfolio.web.app/">Portfolio</a>**
+- 👨‍💻 All of my projects are available at my **<a href="https://ehtishamaliportfolio.web.app/">Portfolio</a>**
 
 - 📫 How to reach me **issaehtishamali@gmail.com**
 
