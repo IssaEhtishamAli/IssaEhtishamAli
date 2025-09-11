@@ -24,7 +24,7 @@ C#, ASP.NET Core, Web APIs, Java, Spring Boot, Angular 6 → 18, RESTful APIs, S
 
 ## 💼 Experience
 
-### 🚀 Software Engineer (March 2025 – Present)
+### 🚀 Software Engineer (March 2025 – Present) – *CareCloud (PVT) Ltd*
 - Designed & maintained backend solutions for **Fox Rehabilitation** (scheduling, referrals, case assignments).  
 - Built full-stack apps (**Angular 18 / .NET Core 8 / Azure**) with **clean architecture & SOLID principles**.  
 - Developed an **e-learning Quran platform** with **Noorani Qaida, user practice, speech recognition & progress tracking**.  
@@ -33,7 +33,7 @@ C#, ASP.NET Core, Web APIs, Java, Spring Boot, Angular 6 → 18, RESTful APIs, S
 
 ---
 
-### 💻 Software Engineer (Oct 2023 – Jan 2025)
+### 💻 Software Engineer (Oct 2023 – Jan 2025) – *TPL Maps (PVT) Ltd*
 - Delivered **location-based services (LBS) portal applications** with high scalability.  
 - Built **MIS dashboards, election portals, and tracking platforms** (Tree Plantation, Dawn News).  
 - Worked with **Angular, Leaflet, Spring Boot, PostgreSQL, AWS, GitLab, Jira**.  
