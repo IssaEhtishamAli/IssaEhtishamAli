@@ -1,55 +1,113 @@
-<a href="#" style="display:flex;justify-content:center;"><img width="30%" height="200px" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehtisham Ali</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Pakistan Islamabad.</h3>
+<h3 align="center">🚀 Full Stack Software Engineer | Islamabad, Pakistan</h3>
 
+---
 
-## 🙋‍♂️ Software Engineer
+## 📍 Contact Information
+📌 **Address:** House No#02, Street No#5B, New Sohan, Islamabad  
+📞 **Phone:** +92 (348) 5153893  
+📧 **Email:** issaehtishamali@gmail.com  
+🌐 **Portfolio:** [ehtishamaliportfolio.web.app](https://ehtishamaliportfolio.web.app)  
+💻 **GitHub:** [github.com/IssaEhtishamAli](https://github.com/IssaEhtishamAli)  
+🔗 **LinkedIn:** [linkedin.com/in/ehtisham-ali1](https://www.linkedin.com/in/ehtisham-ali1/)  
 
-- 🌱 I’m currently learning and working in**Angular 11 and Asp.net core**
+---
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+## 📝 Personal Statement
+💡 Self-motivated, creative, and responsible **Software Engineer** with strong analytical, problem-solving, and interpersonal skills.  
+Seeking a challenging opportunity in a dynamic organization to apply expertise in **full-stack development, software engineering, and agile methodologies**.  
 
-- 👨‍💻 All of my projects are available at my **<a href="https://ehtishamaliportfolio.web.app/">Portfolio</a>**
+**Proficient in:**  
+C#, ASP.NET Core, Web APIs, Java, Spring Boot, Angular 6 → 18, RESTful APIs, SQL/NoSQL, Git/GitHub.
 
-- 📫 How to reach me **issaehtishamali@gmail.com**
+---
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+## 💼 Experience
 
-## 🚀 Languages and Tools:
+### 🚀 Software Engineer (March 2025 – Present)
+- Designed & maintained backend solutions for **Fox Rehabilitation** (scheduling, referrals, case assignments).  
+- Built full-stack apps (**Angular 18 / .NET Core 8 / Azure**) with **clean architecture & SOLID principles**.  
+- Developed an **e-learning Quran platform** with **Noorani Qaida, user practice, speech recognition & progress tracking**.  
+- Implemented **role-based access**, branch/institute management, and reporting tools.  
+- Collaborated with **QA, DevOps, UI/UX, and stakeholders** to deliver high-quality solutions.
 
+---
+
+### 💻 Software Engineer (Oct 2023 – Jan 2025)
+- Delivered **location-based services (LBS) portal applications** with high scalability.  
+- Built **MIS dashboards, election portals, and tracking platforms** (Tree Plantation, Dawn News).  
+- Worked with **Angular, Leaflet, Spring Boot, PostgreSQL, AWS, GitLab, Jira**.  
+- Designed **custom templates** for Email, PDF, and Excel exports.
+
+---
+
+### 👨‍💻 Junior Software Engineer / Intern (Sept 2021 – Jan 2022) – *Magus IT (PVT) Ltd*
+- Developed and tested **web applications** using **Angular, Bootstrap, ASP.NET Core**.  
+- Fixed technical issues, documented solutions, and collaborated with senior developers.  
+- Actively researched and learned new technologies.  
+
+---
+
+## 🛠️ Skills
+
+**Languages & Frameworks:**  
+Angular 6 → 18, Angular Material, Java, Spring Boot, C#, ASP.NET Core  
+
+**Databases:**  
+SQL Server, PostgreSQL  
+
+**Tools & Platforms:**  
+Jira, GitHub, GitLab, Visual Studio, VS Code, IntelliJ, DBeaver, pgAdmin, MS Office  
+
+**Core Skills:**  
+REST APIs, Web API, ADO.NET, EF Core, Swagger, Azure, AWS  
+
+---
+
+## 🎓 Education
+🎓 **Bachelor of Science in Computer Science**  
+Sarhad University of Science & IT, 2023  
+
+---
+
+## 🏅 Certifications
+- **.NET Bootcamp** – Contour Software (PVT) LTD (Jan 2023)  
+- **Pakistan Software Export Board (PSEB)**  
+
+---
+
+## 🚀 Languages & Tools (Visual)
 <p align="left"> 
 <a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="angular" height="50" width="50"></img></a>  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="Html5" height="50" width="50"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" height="50" height="50"/> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstarp" height="50" width="50" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" height="50" width="50"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" height="50" width="50"/></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" height="50" width="50"/></a>
-    <a href="https://postman.com" target="_blank" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
-    <a href="https://material.angular.io/" target="_blank" ><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" height="50" width="50"/></a>
-    <a href="https://sass-lang.com/" target="_blank" ><img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" height="50" width="50"/></img></a> 
-      <a  href="https://www.mysql.com/" target="_blank" > <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql" height="50" width="50"/> </a>
-        
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" height="50" width="50"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" height="50" width="50"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" height="50" width="50"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql" height="50" width="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="git" height="50" width="50"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" height="50" width="50"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" height="50" width="50"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" width="50"/></a>
+<a href="https://material.angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" height="50" width="50"/></a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
 
-## 📊 My Github Stats
+## 📊 GitHub Stats
+<a href="https://github.com/IssaEhtishamAli">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaEhtishamAli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
-  <br/>
-  <a href="https://github.com/IssaEhtishamAli/github-readme-stats"><img alt="Ehtisham Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaEhtishamAli&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+---
 
-<br/>
-<br/>
-
-## Connect with me:
+## 🤝 Connect with Me
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/ehtisham-ali1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/EhtishamAlijutt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ehtisham.ali.jutt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href="https://www.linkedin.com/in/ehtisham-ali1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/EhtishamAlijutt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/ehtisham.ali.jutt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+
+---
+
+<a href="#" style="display:flex;justify-content:center;">
+  <img width="30%" height="200px" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif"/>
+</a>
