@@ -36,7 +36,7 @@ C#, ASP.NET Core, Web APIs, Java, Spring Boot, Angular 6 → 18, RESTful APIs, S
 ### 💻 Software Engineer (Oct 2023 – Jan 2025) – *TPL Maps (PVT) Ltd*
 - Delivered **location-based services (LBS) portal applications** with high scalability.  
 - Built **MIS dashboards, election portals, and tracking platforms** (Tree Plantation, Dawn News).  
-- Worked with **Angular, Leaflet, Spring Boot, PostgreSQL, AWS, GitLab, Jira**.  
+- Worked with **Angular, Leaflet, Asp.Net Framework, Spring Boot, PostgreSQL, AWS, GitLab, Jira**.  
 - Designed **custom templates** for Email, PDF, and Excel exports.
 
 ---
